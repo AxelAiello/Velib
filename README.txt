@@ -1,1 +1,1 @@
-﻿Ouvrez le projet de préférence avec Virtual Studio
+﻿Ouvrez le projet de préférence avec Visual Studio
